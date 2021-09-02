@@ -17,7 +17,7 @@ English level B2 proven by Cambridge exam PET (Currently my level is ~C1, but I 
 * And many more hackathons
 
 Just before COVID-19, I went to Saint Petersburg to participate in [Balt Konkurs](https://baltkonkurs.ru). Won 3rd-degree award and Youth jury laureate prize in "Computer Science'.
-Recently I went on an Internship at a company named Visyond.
+Recently I had an internship at a company named Visyond.
 They are doing an excel for business people. It was a great experience☺️
 
 
