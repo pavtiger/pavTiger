@@ -22,7 +22,7 @@ They are doing an excel for business people. It was a great experience☺️
 
 
 ## My favorite hackathons:
-* [MediaHack](http://mediahack.me) - May 2019. We won the nomination of "Hellish coders". Because we wrote a lot of code and had great architecture but al the final moments everything crashed.
+* [MediaHack](http://mediahack.me) - May 2019. We won the nomination of "Hellish coders". Because we wrote a lot of code and had great architecture but at the final moments everything crashed.
 * [CraftHack](https://crafthack.me) - August 2019. Had a fun time soldering Arduinos and trying to make a game in terminal
 * [DHHack](https://dhhack.ru) - November 2019. Our team won in nomination "Best research solution".
 * Recently, due to COVID-19 there were no real hackathons, but I really want to have one.
