@@ -8,7 +8,8 @@ I study in an IT & Physics school named Silaeder, where we do many projects and 
 
 Languages I know well: Python, C++, Javascript, Pascal, C.  
 I have a lot of experience with Linux and bash scripting. 
-Having tried a big variety of graphic libraries and frameworks, I've found Three.js, which is used in many of my projects. Also having some experience with [animation & 3D modeling](https://www.youtube.com/playlist?list=PLcn5eK1LvnGsmkTJKvAw54Up8n7LRRUP_)
+Having tried a big variety of graphic libraries and frameworks, I've found Three.js, which is used in many of my projects. Having some experience with [animation & 3D modeling](https://www.youtube.com/playlist?list=PLcn5eK1LvnGsmkTJKvAw54Up8n7LRRUP_) as well. A favourite model of mine: [TRON lightcycle](https://sketchfab.com/3d-models/tron-legacy-encom-786-lightcycle-89c2eba426574f53aaa9a8ee37c60495)
+
 English level B2 proven by Cambridge exam PET (Currently my level is ~C1, but I didn't take the exam yet)
 
 ## My biggest projects are:
