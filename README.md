@@ -34,6 +34,7 @@ Now I'm at an internship in a company [Renaissance Capital](https://www.rencap.c
 
 Here are all the [sources](https://drive.google.com/drive/folders/1Y5jziR-H5-SE5bgzEbWFj7at5dIC8yY6?usp=sharing) (etc. presentations) for these hackathons.
 
+Other than all that technical stuff, I also really enjoy listening to music (love soundtracks (especially Has Zimmer's), classic music, EDM and some rap) and fancy working with cameras, filming something, as well
 
 If you want to contribute to any of my repos, you are more than welcome to do that!!!  
 How to contact me:
