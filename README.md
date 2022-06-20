@@ -41,4 +41,4 @@ How to contact me:
 * **Email**: pavTiger@gmail.com
 * **Telegram**: [@pavTiger](https://t.me/pavTiger)
 * **Personal blog**: https://t.me/pavTiger_works (currently it's only in Russian language, but in future I might create English one as well. And if you want me to create an English version you can message me in Telegram)
-* **My resume**: [info.pavtiger.me](https://docs.google.com/document/d/1exfoNc-7nH4eRsa_WKrpC1x2H22j2E02tQo_7jNjnUE/edit?usp=sharing)
+* **My resume**: [Link](https://docs.google.com/document/d/1exfoNc-7nH4eRsa_WKrpC1x2H22j2E02tQo_7jNjnUE/edit?usp=sharing)
