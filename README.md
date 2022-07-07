@@ -2,14 +2,14 @@
 Since early childhood, I've been interested in technology. I started with soldering some boards and Arduino components. 
 Then I slowly switched to Robotics olympiads with LEGO EV3 system. And went to RRO (Russian Robot Olympiad) in **Innopolis**. 
 As I went to the fifth grade, I switched to more practical programming (that was the time when I started using **GitHub**). 
-Enjoy hackathons very much and have been to many of **CROC** ones (and won a few). Recently, I started coding Olympiad tasks in **Tinkoff Generation**.
+Enjoy hackathons very much and have been to many of **CROC** ones (and won a few). Recently, I started doing competitive programming while studying in **Tinkoff Generation**.
 
-I study in an IT & Math school named Silaeder, which is targeted to science projects.
+I study in an IT & Math school named **Silaeder**, which is targeted to science projects.
 
 Languages I know well: **Python, C++, Javascript, C**  
 I have a lot of experience with Linux and bash scripting. 
 Having tried a big variety of graphic libraries and frameworks, I've found Three.js, which is used in many of my projects.  
-I enjoy [animation & 3D modeling](https://www.youtube.com/playlist?list=PLcn5eK1LvnGsmkTJKvAw54Up8n7LRRUP_) as well.
+I enjoy [animation & 3D modeling](https://www.youtube.com/playlist?list=PLcn5eK1LvnGsmkTJKvAw54Up8n7LRRUP_) as well. Here's some of my work.
 * A favourite model of mine [TRON lightcycle](https://sketchfab.com/3d-models/tron-legacy-encom-786-lightcycle-89c2eba426574f53aaa9a8ee37c60495)
 * [Jedi interceptor Star Wars animation](https://youtu.be/P4HUq_jLq50)
 
@@ -30,7 +30,7 @@ Now I'm an intern in a company [Renaissance Capital](https://www.rencap.com), th
 * [DHHack](https://dhhack.ru) - November 2019. Our team won in nomination **"Best research solution"**  
 Here are all the [sources](https://drive.google.com/drive/folders/1Y5jziR-H5-SE5bgzEbWFj7at5dIC8yY6?usp=sharing) (presentations, etc) for these hackathons.
 
-Other than all that technical stuff, I also really enjoy listening to music (love soundtracks, classic music, EDM and some rap) and fancy working with cameras and filming something.  
+Other than all that technical stuff, I also really enjoy listening to music (love soundtracks, classic music, EDM and some rap), flying FPV drones and working with cameras.  
 If you want to contribute to any of my repos, you are more than welcome to do that!!!  
 How to contact me:
 * **Email**: pavTiger@gmail.com
