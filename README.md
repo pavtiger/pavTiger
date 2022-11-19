@@ -13,7 +13,7 @@ I enjoy [animation & 3D modeling](https://www.youtube.com/playlist?list=PLcn5eK1
 * A favourite model of mine [TRON lightcycle](https://sketchfab.com/3d-models/tron-legacy-encom-786-lightcycle-89c2eba426574f53aaa9a8ee37c60495)
 * [Jedi interceptor Star Wars animation](https://youtu.be/P4HUq_jLq50)
 
-English level B2 proven by Cambridge exam PET (Currently my level is ~C1, but I didn't take the exam yet due to COVID). Once went to an English camp to Hastings, England to improve my English level.
+English level B2 proven by Cambridge exam PET (Currently my level is ~C2, but I didn't take the exam yet due to COVID and other limitations). Have lived in a host family in England twice to become more fluent in the language. Lived in Hastings and then Cambridge, the later is now my favorite city.
 
 As much as doing projects I like going to science conferences. I've participated in [Balt Konkurs](https://baltkonkurs.ru) in Saint Petersburg twice, winning 3rd-degree award and Youth jury laureate prize in Computer Science.
 Also, won Advanced Research Award in an **International** Korean conference [KSASF](https://www.ksa.hs.kr/Eng/Home/Sub?menuId=42)
@@ -36,6 +36,6 @@ How to contact me:
 * **Email**: pavTiger@gmail.com
 * **Telegram**: [@pavTiger](https://t.me/pavTiger)
 * **Personal blog**: https://t.me/pavTiger_works (currently it's only in Russian language. Contact me if you want it in English)
-* **My resume**: [Link](https://docs.google.com/document/d/1exfoNc-7nH4eRsa_WKrpC1x2H22j2E02tQo_7jNjnUE/edit?usp=sharing)
+* **My resume**: [Link](https://docs.google.com/document/d/e/2PACX-1vTqA5P4KcBBP535vxbmVeITMrahfC4PNz-cJcKc2AjLCgeeW1FVpTZJ0wz0BsYO0b_TgHSRYFKeVfsT/pub)
 
 ![Metrics](https://metrics.lecoq.io/pavtiger?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=gister%2C%20maintainer%2C%20reviewer%2C%20deployer&config.timezone=Europe%2FMoscow)
