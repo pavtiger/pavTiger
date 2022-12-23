@@ -23,11 +23,12 @@ I've been on an internship at a company named [Visyond](https://visyond.com).
 They are creating an Excel for business people. It was a great experience☺  
 Now I'm an intern in a company [Renaissance Capital](https://www.rencap.com), there I work with Power BI, especially Power Query which is an Excel add-on that is a tool to manage your data and do some other programming tasks.
 
-### My favorite hackathons:
+### My favorite hackathons and achievements:
 * [MediaHack](http://mediahack.me) - May 2019. Won the nomination **"Hellish coders"** because we wrote a tonn of code with great architecture and the organisers apparently really liked the way we were coding
 * [CraftHack](https://crafthack.me) - August 2019. Had a fun time soldering Arduinos and trying to make a terminal game
+* Winner of [Data analysis National olympiad (DANO) 2022](https://dano.hse.ru/)
 * [WildHack](https://wildhack.croc.ru) - December 2021. First big hackathon since COVID started. Got together with some friends and wrote a Neural Network recognising fish in photos from a reserve park in Kamchatka.
-* [DHHack](https://dhhack.ru) - November 2019. Our team won in nomination **"Best research solution"**  
+* [DHHack](https://dhhack.ru) - November 2019. Our team **won** in nomination **"Best research solution"**  
 Here are all the [sources](https://drive.google.com/drive/folders/1Y5jziR-H5-SE5bgzEbWFj7at5dIC8yY6?usp=sharing) (presentations, etc) for these hackathons.
 
 Other than all that technical stuff, I also really enjoy listening to music (love soundtracks, classic music, EDM and some rap), flying FPV drones and working with cameras.  
