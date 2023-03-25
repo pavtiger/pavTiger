@@ -6,7 +6,7 @@ Enjoy hackathons very much and have been to many of **CROC** ones (and won a few
 
 I study in an IT & Math school named **Silaeder**, which is targeted to science projects.
 
-Languages I know well: **Python, C++, Javascript, C**  
+Languages I know well: **Python, C++, Javascript, C, Bash**  
 I have a lot of experience with Linux and bash scripting. 
 Having tried a big variety of graphic libraries and frameworks, I've found Three.js, which is used in many of my projects.  
 I enjoy [animation & 3D modeling](https://www.youtube.com/playlist?list=PLcn5eK1LvnGsmkTJKvAw54Up8n7LRRUP_) as well. Here's some of my work.
