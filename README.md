@@ -29,7 +29,8 @@ Now I'm an intern in a company [Renaissance Capital](https://www.rencap.com), th
 * [CraftHack](https://crafthack.me) - August 2019. Had a fun time soldering Arduinos and trying to make a terminal game
 * Winner of [Data analysis National olympiad (DANO) 2022](https://dano.hse.ru/)
 * [WildHack](https://wildhack.croc.ru) - December 2021. First big hackathon since COVID started. Got together with some friends and wrote a Neural Network recognising fish in photos from a reserve park in Kamchatka.
-* [DHHack](https://dhhack.ru) - November 2019. Our team **won** in nomination **"Best research solution"**  
+* [DHHack](https://dhhack.ru) - November 2019. Our team **won** in nomination **"Best research solution"**
+* [HSE Gamedev](https://cs.hse.ru/se/2023/) - July 2023. We created a small game on Unreal Engine inspired by Outer Wilds in just under 2 weeks and won in our nomination  
 Here are all the [sources](https://drive.google.com/drive/folders/1Y5jziR-H5-SE5bgzEbWFj7at5dIC8yY6?usp=sharing) (presentations, etc) for these hackathons.
 
 Other than all that technical stuff, I also really enjoy listening to music (love soundtracks, classic music, EDM and some rap), flying FPV drones and working with cameras.  
@@ -39,5 +40,3 @@ How to contact me:
 * **Telegram**: [@pavTiger](https://t.me/pavTiger)
 * **Personal blog**: https://t.me/pavTiger_works (currently it's only in Russian language. Contact me if you want it in English)
 * **My resume**: [Link](https://docs.google.com/document/d/e/2PACX-1vTqA5P4KcBBP535vxbmVeITMrahfC4PNz-cJcKc2AjLCgeeW1FVpTZJ0wz0BsYO0b_TgHSRYFKeVfsT/pub)
-
-![Metrics](https://metrics.lecoq.io/pavtiger?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=gister%2C%20maintainer%2C%20reviewer%2C%20deployer&config.timezone=Europe%2FMoscow)
