@@ -20,9 +20,10 @@ As much as doing projects I like going to science conferences. I've participated
 Also, won Advanced Research Award in an **International** Korean conference [KSASF](https://www.ksa.hs.kr/Eng/Home/Sub?menuId=42)
 
 ### Internships
-I've been on an internship at a company named [Visyond](https://visyond.com).
-They are creating an Excel for business people. It was a great experience☺  
-Now I'm an intern in a company [Renaissance Capital](https://www.rencap.com), there I work with Power BI, especially Power Query which is an Excel add-on that is a tool to manage your data and do some other programming tasks.
+* I've been on an internship at a company named [Visyond](https://visyond.com) as a backend developer.
+They are creating an Excel for business people. I fixed some issues and even improved execution time in some parts of the code by a few times. It was a great experience☺  
+* In July 2023 I was an intern in a company [Telepat](https://telepat.online/medsenger.html) and working on their main product medsenger (medical messenger) as a DevOps and system administrator. Packaging their main backend into a docker container and starting services on-premises
+* Currently I'm an intern in a company [Renaissance Capital](https://www.rencap.com), there I work with Power BI, especially Power Query which is an Excel add-on that is a tool to manage your data and do some other programming tasks
 
 ### My favorite hackathons and achievements:
 * [MediaHack](http://mediahack.me) - May 2019. Won the nomination **"Hellish coders"** because we wrote a tonn of code with great architecture and the organisers apparently really liked the way we were coding
