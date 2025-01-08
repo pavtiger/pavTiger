@@ -1,4 +1,4 @@
-## *Greetings, programs!* <img src="clu.jpg" alt="clu_emoji" width="38" height="35" /> I am Paul Artushkov (also known as pavTiger)
+<h2> <I>Greetings, programs!</I> <img src="clu.jpg" alt="clu_emoji" width="38" height="35"/> <br> I am Paul Artushkov (also known as pavTiger) </h2>
 
 ML, DevOps and Infrastructure Engineer, and a Software developer. Currently, I'm a student at the [Central University](https://centraluniversity.ru/) specializing in the Faculty of AI.
 
@@ -12,9 +12,9 @@ Considerable familiarity with **pytorch** and **pytorch3d** libraries, CV (**ope
 * [Telepat](https://telepat.online/medsenger.html) - **DevOps** and system administrator. I containerized their main backend with **Docker** and deployed services on-premises.
 * [Visyond](https://visyond.com) - **Backend developer**, contributing to building and maintaining their core systems.
 
-#### As much as doing projects I like attending science conferences:
-* **Advanced Research Award** at the International Korean Conference [KSASF](https://www.ksa.hs.kr/Eng/Home/Sub?menuId=42)
-* **Main Science Category Prize** at [Balt Konkurs](https://baltkonkurs.ru), one of the largest science conferences in my country
+#### As much as working on projects I like attending science conferences:
+* Won the **Advanced Research Award** at the International Korean Conference [KSASF](https://www.ksa.hs.kr/Eng/Home/Sub?menuId=42)
+* Won the **Main Science Category Prize** at [Balt Konkurs](https://baltkonkurs.ru), one of the largest science conferences in my country
 
 #### Hacks and olympiads:
 * Winner of the [Data analysis National olympiad (DANO) 2022](https://dano.hse.ru/)
