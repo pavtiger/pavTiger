@@ -3,7 +3,7 @@
 ML, DevOps and Infrastructure Engineer, and a Software developer. Currently, I'm a student at the [Central University](https://centraluniversity.ru/) specializing in the Faculty of AI.
 
 Languages I know well: **Python, C++, Javascript, C, Bash**  
-I have strong expertise with **Linux**, **git**, **Docker**, **NGINX**, **TrueNAS**, **Proxmox** and **server hardware**, along with versatile device like **Raspberry Pi**. I run a homelab where I explore new technologies and use it as a powerhouse for my ML projects.
+I have strong expertise with **Linux**, **git**, **Docker**, **Kubernetes**, **NGINX**, **TrueNAS**, **Proxmox** and **server hardware**, along with versatile device like **Raspberry Pi**. I run a homelab where I explore new technologies and use it as a powerhouse for my ML projects.
 
 And a lot of coding experience: backends, data analytics, algorithms, web applications, scripts, parsers, and much more.
 Considerable familiarity with **pytorch** and **pytorch3d** libraries, CV (**opencv**, **pytesseract** and CV neural networks) as well as [Three.js](https://github.com/physarumAdv/Physarum_Three.js) library for complex interfaces in Javascript.
